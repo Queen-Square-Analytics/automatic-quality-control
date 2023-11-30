@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qcs"
+version = "0.0.0"
+authors = [
+    { name="Daniele Ravì",      email="d.ravi@queensquareanalytics.com" },
+    { name="Lemuel Puglisi",    email="lemuelpuglisi@queensquareanalytics.com" },
+]
+description = "An efficient semi-supervised quality control system trained using physics-based MRI-artefact generators and adversarial training."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dependencies = []
+
+[options]
+package_dir = "src"
+
+[options.packages.find]
+where="src"
