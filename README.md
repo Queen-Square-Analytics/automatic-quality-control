@@ -7,7 +7,7 @@
 <h4 align="center">An Efficient Semi-Supervised Quality Control System Trained Using Phisics-Based MRI-Artefact Generators And Adversarial Training</h4>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2206.03359">Arxiv.org</a> •
+  <a href="https://www.sciencedirect.com/science/article/pii/S1361841523002931">Article</a> •
   <a href="#installation">Installation</a> •
   <a href="#training">Training</a> •
   <a href="#cite">Cite</a> •
