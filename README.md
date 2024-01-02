@@ -209,6 +209,10 @@ If this code is useful for your research, please cite:
 * **Co-Authors**: Frederik Barkhof, Daniel Alexander, Lemuel Puglisi, Geoff Parker, Arman Eshaghi
 * **Code implementation**: Daniele Ravì, Lemuel Puglisi
 
+## Funding
+
+This project has received funding from Innovate UK - application number 74984.
+
 ## License
 
 This work is licensed under a
